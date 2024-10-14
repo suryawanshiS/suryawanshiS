@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, welcome to Suraj's profile 👋
 
+Hello I am a good developer
 <!--
 **suryawanshiS/suryawanshiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
